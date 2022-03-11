@@ -1,0 +1,232 @@
+-------------------------------------------------------------------
+Start Normal Without Cache Optimization
+Number Of Vectors: 1125000
+Time: 91.20 ms
+y = 0.00138 * x + 24.96952
+-------------------------------------------------------------------
+Start Normal With Cache Optimization
+Number Of Vectors: 1125000
+Time: 38.38 ms
+y = 0.00138 * x + 24.96952
+-------------------------------------------------------------------
+Start OpenMP Without Cache Optimization
+Number Of Vectors: 1125000
+Time: 48.27 ms
+y = 0.00138 * x + 24.96952
+-------------------------------------------------------------------
+Start OpenMP With Cache Optimization
+Number Of Vectors: 1125000
+Time: 20.80 ms
+y = 0.00138 * x + 24.96952
+-------------------------------------------------------------------
+
+
+-------------------------------------------------------------------
+Start Normal Without Cache Optimization
+Number Of Vectors: 6125000
+Time: 827.65 ms
+y = 0.00042 * x + 24.98290
+-------------------------------------------------------------------
+Start Normal With Cache Optimization
+Number Of Vectors: 6125000
+Time: 161.73 ms
+y = 0.00042 * x + 24.98290
+-------------------------------------------------------------------
+Start OpenMP Without Cache Optimization
+Number Of Vectors: 6125000
+Time: 490.22 ms
+y = 0.00042 * x + 24.98290
+-------------------------------------------------------------------
+Start OpenMP With Cache Optimization
+Number Of Vectors: 6125000
+Time: 121.27 ms
+y = 0.00042 * x + 24.98290
+-------------------------------------------------------------------
+
+
+-------------------------------------------------------------------
+Start Normal Without Cache Optimization
+Number Of Vectors: 12500000
+Time: 2123.58 ms
+y = 0.00021 * x + 24.99291
+-------------------------------------------------------------------
+Start Normal With Cache Optimization
+Number Of Vectors: 12500000
+Time: 348.06 ms
+y = 0.00021 * x + 24.99291
+-------------------------------------------------------------------
+Start OpenMP Without Cache Optimization
+Number Of Vectors: 12500000
+Time: 1046.87 ms
+y = 0.00021 * x + 24.99291
+-------------------------------------------------------------------
+Start OpenMP With Cache Optimization
+Number Of Vectors: 12500000
+Time: 237.38 ms
+y = 0.00021 * x + 24.99291
+-------------------------------------------------------------------
+
+
+-------------------------------------------------------------------
+Start Normal Without Cache Optimization
+Number Of Vectors: 24500000
+Time: 2591.37 ms
+y = 0.00011 * x + 24.99923
+-------------------------------------------------------------------
+Start Normal With Cache Optimization
+Number Of Vectors: 24500000
+Time: 557.55 ms
+y = 0.00011 * x + 24.99923
+-------------------------------------------------------------------
+Start OpenMP Without Cache Optimization
+Number Of Vectors: 24500000
+Time: 2115.86 ms
+y = 0.00011 * x + 24.99923
+-------------------------------------------------------------------
+Start OpenMP With Cache Optimization
+Number Of Vectors: 24500000
+Time: 338.81 ms
+y = 0.00011 * x + 24.99923
+-------------------------------------------------------------------
+
+
+-------------------------------------------------------------------
+Start Normal Without Cache Optimization
+Number Of Vectors: 50000000
+Time: 6807.38 ms
+y = 0.00007 * x + 24.99902
+-------------------------------------------------------------------
+Start Normal With Cache Optimization
+Number Of Vectors: 50000000
+Time: 1052.50 ms
+y = 0.00007 * x + 24.99902
+-------------------------------------------------------------------
+Start OpenMP Without Cache Optimization
+Number Of Vectors: 50000000
+Time: 3578.41 ms
+y = 0.00007 * x + 24.99902
+-------------------------------------------------------------------
+Start OpenMP With Cache Optimization
+Number Of Vectors: 50000000
+Time: 571.66 ms
+y = 0.00007 * x + 24.99902
+-------------------------------------------------------------------
+
+###################################################################
+
+-------------------------------------------------------------------
+Start Normal Without Cache Optimization
+Number Of Vectors: 1125000
+Time: 23.76 ms
+y = 0.00138 * x + 24.96952
+-------------------------------------------------------------------
+Start Normal With Cache Optimization
+Number Of Vectors: 1125000
+Time: 6.93 ms
+y = 0.00138 * x + 24.96952
+-------------------------------------------------------------------
+Start OpenMP Without Cache Optimization
+Number Of Vectors: 1125000
+Time: 14.87 ms
+y = 0.00138 * x + 24.96952
+-------------------------------------------------------------------
+Start OpenMP With Cache Optimization
+Number Of Vectors: 1125000
+Time: 2.79 ms
+y = 0.00138 * x + 24.96952
+-------------------------------------------------------------------
+
+
+-------------------------------------------------------------------
+Start Normal Without Cache Optimization
+Number Of Vectors: 6125000
+Time: 259.25 ms
+y = 0.00042 * x + 24.98290
+-------------------------------------------------------------------
+Start Normal With Cache Optimization
+Number Of Vectors: 6125000
+Time: 33.00 ms
+y = 0.00042 * x + 24.98290
+-------------------------------------------------------------------
+Start OpenMP Without Cache Optimization
+Number Of Vectors: 6125000
+Time: 151.68 ms
+y = 0.00042 * x + 24.98290
+-------------------------------------------------------------------
+Start OpenMP With Cache Optimization
+Number Of Vectors: 6125000
+Time: 23.14 ms
+y = 0.00042 * x + 24.98290
+-------------------------------------------------------------------
+
+
+-------------------------------------------------------------------
+Start Normal Without Cache Optimization
+Number Of Vectors: 12500000
+Time: 576.82 ms
+y = 0.00021 * x + 24.99291
+-------------------------------------------------------------------
+Start Normal With Cache Optimization
+Number Of Vectors: 12500000
+Time: 82.39 ms
+y = 0.00021 * x + 24.99291
+-------------------------------------------------------------------
+Start OpenMP Without Cache Optimization
+Number Of Vectors: 12500000
+Time: 552.50 ms
+y = 0.00021 * x + 24.99291
+-------------------------------------------------------------------
+Start OpenMP With Cache Optimization
+Number Of Vectors: 12500000
+Time: 49.62 ms
+y = 0.00021 * x + 24.99291
+-------------------------------------------------------------------
+
+
+-------------------------------------------------------------------
+Start Normal Without Cache Optimization
+Number Of Vectors: 24500000
+Time: 2030.65 ms
+y = 0.00011 * x + 24.99923
+-------------------------------------------------------------------
+Start Normal With Cache Optimization
+Number Of Vectors: 24500000
+Time: 171.62 ms
+y = 0.00011 * x + 24.99923
+-------------------------------------------------------------------
+Start OpenMP Without Cache Optimization
+Number Of Vectors: 24500000
+Time: 1307.23 ms
+y = 0.00011 * x + 24.99923
+-------------------------------------------------------------------
+Start OpenMP With Cache Optimization
+Number Of Vectors: 24500000
+Time: 91.23 ms
+y = 0.00011 * x + 24.99923
+-------------------------------------------------------------------
+
+
+-------------------------------------------------------------------
+Start Normal Without Cache Optimization
+Number Of Vectors: 50000000
+Time: 4862.91 ms
+y = 0.00007 * x + 24.99902
+-------------------------------------------------------------------
+Start Normal With Cache Optimization
+Number Of Vectors: 50000000
+Time: 260.09 ms
+y = 0.00007 * x + 24.99902
+-------------------------------------------------------------------
+Start OpenMP Without Cache Optimization
+Number Of Vectors: 50000000
+Time: 2375.69 ms
+y = 0.00007 * x + 24.99902
+-------------------------------------------------------------------
+Start OpenMP With Cache Optimization
+Number Of Vectors: 50000000
+Time: 213.28 ms
+y = 0.00007 * x + 24.99902
+-------------------------------------------------------------------
+
+###################################################################
+
